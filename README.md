@@ -1,2 +1,2 @@
 # Python
-##Smaller projects made in python.
+## Smaller projects made in python.
